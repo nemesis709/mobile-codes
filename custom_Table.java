@@ -1,3 +1,8 @@
+/*
+custom table
+draggable,multi-selectable
+*/
+
 public class TableAdapter {
 
     public TableAdapter(Context mContext, final TableLayout Table, ArrayList<> dataList, final CheckBox box) {
